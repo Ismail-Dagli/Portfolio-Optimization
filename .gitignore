@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+
+launch.bat
+portfolio_optimizer.log
